@@ -1,0 +1,11 @@
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSLocalDB\VCSLocalDB\bin\Debug\library.sdf
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSLocalDB\VCSLocalDB\bin\Debug\VCSLocalDB.exe.config
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSLocalDB\VCSLocalDB\bin\Debug\VCSLocalDB.exe
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSLocalDB\VCSLocalDB\bin\Debug\VCSLocalDB.pdb
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSLocalDB\VCSLocalDB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSLocalDB\VCSLocalDB\obj\x86\Debug\VCSLocalDB.Form1.resources
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSLocalDB\VCSLocalDB\obj\x86\Debug\VCSLocalDB.Properties.Resources.resources
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSLocalDB\VCSLocalDB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSLocalDB\VCSLocalDB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSLocalDB\VCSLocalDB\obj\x86\Debug\VCSLocalDB.exe
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSLocalDB\VCSLocalDB\obj\x86\Debug\VCSLocalDB.pdb
